@@ -1,5 +1,5 @@
 name = "reverse-proxy-worker"
 type = "javascript"
 main = "index.js"  # This tells Wrangler that index.js is your entry file
-account_id = "Abdullah.osama.elbagoury@gmail.com"  # Replace with your actual Cloudflare account ID
+account_id = "980533fa5bcb5f58d7da602f85df3040"  # Replace with your actual Cloudflare account ID
 workers_dev = true
